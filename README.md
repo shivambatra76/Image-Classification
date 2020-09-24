@@ -1,5 +1,7 @@
 # Image-Classification
 It is simple implementation of Image classification using Convolution Neural Network. 
+## My article on CNN
+https://medium.com/@shivambatra76/convolutional-neural-networks-demystified-80f72c1ea31b
 ## Dataset Details
 Link: https://data.mendeley.com/datasets/4drtyfjtfy/1
 
